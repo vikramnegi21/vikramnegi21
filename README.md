@@ -1,16 +1,17 @@
-<h1 align="center">Hey, I'm Vikram 👋</h1>
-<h3 align="center">B.Tech CSE student | Learning web dev, solving DSA daily</h3>
+<h1 align="center">Vikram Negi</h1>
+<h3 align="center">B.Tech CSE Student · Web Dev in Progress</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/__vikram21"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://codeforces.com/profile/__vikram21"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-  <a href="https://github.com/vikramnegi21/Dsa-practice-"><img src="https://img.shields.io/badge/DSA%20Forge-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+CS undergrad at Graphic Era Hill University, building web dev skills alongside daily DSA practice.
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/__vikram21">LeetCode</a> ·
+  <a href="https://codeforces.com/profile/__vikram21">Codeforces</a> ·
+  <a href="https://github.com/vikramnegi21/Dsa-practice-">DSA Forge</a>
 </p>
 
 ---
-
-### About me
-I'm a Computer Science student at Graphic Era Hill University, Bhimtal (2024–2028). Right now I'm mostly grinding DSA (following Striver's A2Z sheet in C++), and I've started learning web development side by side — HTML, CSS, JS, and eventually React and Node.js. Goal is to land a web dev internship, so I'm building projects and staying consistent with daily practice.
 
 ### Tech Stack
 
@@ -45,33 +46,37 @@ I'm a Computer Science student at Graphic Era Hill University, Bhimtal (2024–2
 
 
 ### Projects
-| Project | What it is |
+| Project | Description |
 |---|---|
-| 🚗 [RouteCore](https://github.com/vikramnegi21/Dsa-practice-) | A route optimizer I built with Dijkstra, A*, and Greedy algorithms — plain HTML/CSS/JS |
-| 📊 [DSA Forge](https://github.com/vikramnegi21/Dsa-practice-) | My daily DSA tracker — auto-updates stats and heatmaps through a GitHub Action every time I push a new problem |
+| 🚗 **RouteCore** | Route optimizer using Dijkstra, A*, and Greedy algorithms — vanilla HTML/CSS/JS |
+| 📊 **DSA Forge** | Daily DSA tracker with auto-updating stats and heatmaps via GitHub Actions |
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramnegi21&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramnegi21&theme=tokyonight" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramnegi21&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
 
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikramnegi21&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<table>
+<tr>
+<td>
 
-### Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramnegi21&theme=tokyo-night"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vikramnegi21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vikramnegi21/vikramnegi21/output/github-contribution-grid-snake.svg"/>
-</p>
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramnegi21&theme=tokyonight&hide_border=true" height="160"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramnegi21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vikramnegi21&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramnegi21&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://raw.githubusercontent.com/vikramnegi21/vikramnegi21/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 <p align="center"><i>Consistency beats intensity 🔥</i></p>
