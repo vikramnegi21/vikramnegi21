@@ -1,10 +1,14 @@
 <div align="center">
 
- Vikram Negi
+# Vikram Negi
 
-B.Tech CSE Student · Batch 2024–2028 
+B.Tech CSE Student · Batch 2024–2028
 
-CS undergrad at Graphic Era Hill University, building web dev skills alongside daily DSA practice.
+</div>
+
+> CS undergrad at Graphic Era Hill University, building web dev skills alongside daily DSA practice.
+
+<div align="center">
 
 <a href="https://leetcode.com/__vikram21">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -20,7 +24,7 @@ CS undergrad at Graphic Era Hill University, building web dev skills alongside d
 
 <br/>
 
- Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -32,12 +36,7 @@ CS undergrad at Graphic Era Hill University, building web dev skills alongside d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikramnegi21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramnegi21&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramnegi21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikramnegi21&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramnegi21&theme=tokyo-night&hide_border=true"/>
 
