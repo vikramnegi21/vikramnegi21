@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vikram Negi</h1>
-<h3 align="center">CS Undergrad @ Graphic Era Hill University | Aspiring Web Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=B.Tech+CSE+%7C+2024-2028;DSA+%7C+C%2B%2B+%7C+Web+Dev;Solving+LeetCode+%26+Codeforces+Daily;Open+to+Web+Dev+Internships" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey, I'm Vikram 👋</h1>
+<h3 align="center">B.Tech CSE student | Learning web dev, solving DSA daily</h3>
 
 <p align="center">
   <a href="https://leetcode.com/__vikram21"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
@@ -13,13 +9,10 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech CSE, Graphic Era Hill University, Bhimtal (2024–2028)
-- 💻 Currently sharpening **DSA (Striver's A2Z)** and moving into **Web Development** (HTML → CSS → JS → React → Node.js)
-- 🌱 Building projects to break into web dev internships & startups
-- 🔥 Daily LeetCode + Codeforces streak — consistency over intensity
+### About me
+I'm a Computer Science student at Graphic Era Hill University, Bhimtal (2024–2028). Right now I'm mostly grinding DSA (following Striver's A2Z sheet in C++), and I've started learning web development side by side — HTML, CSS, JS, and eventually React and Node.js. Goal is to land a web dev internship, so I'm building projects and staying consistent with daily practice.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -51,13 +44,13 @@
 
 
 
-### 📌 Featured Projects
-| Project | Description |
+### Projects
+| Project | What it is |
 |---|---|
-| 🚗 [RouteCore](https://github.com/vikramnegi21/Dsa-practice-) | Route optimizer with Dijkstra, A*, and Greedy algorithms — vanilla HTML/CSS/JS |
-| 📊 [DSA Forge](https://github.com/vikramnegi21/Dsa-practice-) | Auto-tracking DSA practice dashboard with animated heatmaps, generated via GitHub Actions |
+| 🚗 [RouteCore](https://github.com/vikramnegi21/Dsa-practice-) | A route optimizer I built with Dijkstra, A*, and Greedy algorithms — plain HTML/CSS/JS |
+| 📊 [DSA Forge](https://github.com/vikramnegi21/Dsa-practice-) | My daily DSA tracker — auto-updates stats and heatmaps through a GitHub Action every time I push a new problem |
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikramnegi21&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramnegi21&theme=tokyonight" height="165"/>
@@ -66,12 +59,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramnegi21&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-### 🐍 Contribution Snake
+### Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramnegi21&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
+### Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramnegi21&theme=tokyo-night"/>
+</p>
 
-![snake gif](https://raw.githubusercontent.com/vikramnegi21/vikramnegi21/output/github-contribution-grid-snake.svg)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikramnegi21/vikramnegi21/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 <p align="center"><i>Consistency beats intensity 🔥</i></p>
