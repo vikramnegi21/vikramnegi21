@@ -1,8 +1,8 @@
 <div align="center">
 
-# Vikram Negi
+ Vikram Negi
 
-**B.Tech CSE Student · Batch 2024–2028 **
+B.Tech CSE Student · Batch 2024–2028 
 
 CS undergrad at Graphic Era Hill University, building web dev skills alongside daily DSA practice.
 
@@ -20,7 +20,7 @@ CS undergrad at Graphic Era Hill University, building web dev skills alongside d
 
 <br/>
 
-### Tech Stack
+ Tech Stack
 
 <div align="center">
 
