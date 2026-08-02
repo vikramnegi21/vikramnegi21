@@ -6,7 +6,7 @@
 
 </div>
 
-> CS undergrad at Graphic Era Hill University, building web dev skills alongside daily DSA practice.
+> **CS undergrad at Graphic Era Hill University, building web dev skills alongside daily DSA practice.**
 
 <div align="center">
 
