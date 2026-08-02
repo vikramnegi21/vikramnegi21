@@ -2,7 +2,7 @@
 
 # Vikram Negi
 
-B.Tech CSE Student · Batch 2024–2028
+**B.Tech CSE Student · Batch 2024–2028**
 
 </div>
 
